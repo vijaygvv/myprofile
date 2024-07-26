@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+
+header {
+    position: sticky;
+    top: 0;
+    color: #fff;
+    background-color: #000080;
+    padding: 10px 20px;
+    box-shadow: 0 4px 6px -6px #222;
+    z-index: 1000;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+h1, h2 {
+    background: #eee;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    background: ;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+}
